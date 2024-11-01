@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Khambete
-- 👀 I’m interested in Data science and ML
-- 🌱 I’m currently learning C++, ML
+- 👀 I'am interested in math, stats, theoritical cs
+- 🌱 I’m currently learning python
 
 <!---
 adityathegreat1729/adityathegreat1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
