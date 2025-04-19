@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Khambete
-- 👀 I'am interested in math, stats, theoritical cs
-- 🌱 I’m currently learning python
+- 👀 I'am interested in math, stats, theoritical cs, game theory
+- 🌱 ??
 -  See more on [my webpage](https://adityak1729.github.io)
 
 <!---
